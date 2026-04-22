@@ -1,5 +1,0 @@
-Training Log
-
-Evaluation Results
-HR@10: 0.4680
-NDCG@10: 0.2434
